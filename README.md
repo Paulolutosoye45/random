@@ -1,6 +1,6 @@
 # Getting Started with Create React App
 
- ## you can view my project (https://randomuserpaul.netlify.app)
+ ## you can view my project(https://randomuserpaul.netlify.app)
 
 ## Available Scripts
 
